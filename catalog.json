@@ -10,6 +10,13 @@
           "name": "Catalog test (downloaded)",
           "file": "tracks/catalog-test.csv",
           "version": 1
+        },
+        {
+          "id": "wide-test",
+          "name": "iphone - Wide Test",
+          "file": "tracks/wide-test.csv",
+          "version": 1,
+          "format": 2
         }
       ]
     },
