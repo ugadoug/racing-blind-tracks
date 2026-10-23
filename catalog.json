@@ -5,7 +5,24 @@
       "id": "test",
       "name": "Test tracks",
       "tracks": [
-        { "id": "catalog-test", "name": "Catalog test (downloaded)", "file": "tracks/catalog-test.csv", "version": 1 }
+        {
+          "id": "catalog-test",
+          "name": "Catalog test (downloaded)",
+          "file": "tracks/catalog-test.csv",
+          "version": 1
+        }
+      ]
+    },
+    {
+      "id": "ipad",
+      "name": "iPad tracks",
+      "tracks": [
+        {
+          "id": "ipad-complex",
+          "name": "ipad 11 - complex",
+          "file": "tracks/ipad-complex.csv",
+          "version": 1
+        }
       ]
     }
   ]
