@@ -1,0 +1,12 @@
+{
+  "format": 1,
+  "libraries": [
+    {
+      "id": "test",
+      "name": "Test tracks",
+      "tracks": [
+        { "id": "catalog-test", "name": "Catalog test (downloaded)", "file": "tracks/catalog-test.csv", "version": 1 }
+      ]
+    }
+  ]
+}
