@@ -17,6 +17,13 @@
           "file": "tracks/wide-test.csv",
           "version": 1,
           "format": 2
+        },
+        {
+          "id": "key-example",
+          "name": "iphone - Key Example",
+          "file": "tracks/key-example.csv",
+          "version": 1,
+          "format": 3
         }
       ]
     },
