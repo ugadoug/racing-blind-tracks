@@ -1,15 +1,15 @@
 ,,,,,,,,,,,,,,,
-name = Dune Dash,,,,,,,,,,,,t,w,w,w
-track = 8,,,2,x,x,x,1,,,,,,d,d,d
-round = medium,,,x,,,,x,,,,,,,,
-screen = iPhone 61,,,x,,,,x,,,,,,,f,
-theme = desert,,,x,,,,x,,,,,d,,x,
-,,,x,,,,x,,,,,d,,x,
-,,,x,,,,x,,,,,d,,x,
-,,,x,,t,,s,,,,,,,x,
-,,,x,,,,,,,t,,,,x,
-,,,x,,,,,,,,,,,x,
-,,,x,,,,,,,,,,,x,
-,,,x,,,,,,,,,,,x,
-,,,3,x,x,x,x,x,x,x,x,x/456,x,4,
-,,,,,,,,,,,,,,,
+name = Dune Dash,,,,,,,,,,,,,,,
+track = 8,,s,,5,x,x,x,x,x,x,x,x,x,x,6
+round = medium,,x,,x,,,,,,,,,,,x
+screen = iPhone 61,,x,,4,x,x,x,3,,,d,,,,x
+theme = desert,,x,,,,,,x,,,d,,,,x
+,,j1a,,,,,,x,,,d,t,,,x
+,,w,w,,,d,,x,,,d,,,,x
+,,w,w,,,d,,x,,t,,,,,x
+,,w,w,t,,d,,x,,,,,,,x
+,,j1b,,,,d,,x,,,,,,,x
+,,x,,,,,,x,,,,w,,,x
+,,x,,,,,,x,,,,w,,,x
+,,x,,,,,,x,,,,w,d,,x
+,,1,x,x,x,x/789,x,2,,,d,d,d,,f
