@@ -11,70 +11,70 @@
           "id": "iphone-pack-1-01",
           "name": "1. Pocket Park",
           "file": "tracks/iphone-pack-1-01.csv",
-          "version": 2,
+          "version": 3,
           "format": 3
         },
         {
           "id": "iphone-pack-1-02",
           "name": "2. Dune Dash",
           "file": "tracks/iphone-pack-1-02.csv",
-          "version": 1,
+          "version": 2,
           "format": 3
         },
         {
           "id": "iphone-pack-1-03",
           "name": "3. Snowbank",
           "file": "tracks/iphone-pack-1-03.csv",
-          "version": 2,
+          "version": 3,
           "format": 3
         },
         {
           "id": "iphone-pack-1-04",
           "name": "4. Leaf Peeper",
           "file": "tracks/iphone-pack-1-04.csv",
-          "version": 2,
+          "version": 3,
           "format": 3
         },
         {
           "id": "iphone-pack-1-05",
           "name": "5. Boardwalk",
           "file": "tracks/iphone-pack-1-05.csv",
-          "version": 2,
+          "version": 3,
           "format": 3
         },
         {
           "id": "iphone-pack-1-06",
           "name": "6. Pine Hollow",
           "file": "tracks/iphone-pack-1-06.csv",
-          "version": 3,
+          "version": 4,
           "format": 3
         },
         {
           "id": "iphone-pack-1-07",
           "name": "7. Red Rock Rally",
           "file": "tracks/iphone-pack-1-07.csv",
-          "version": 1,
+          "version": 2,
           "format": 3
         },
         {
           "id": "iphone-pack-1-08",
           "name": "8. Avalanche Alley",
           "file": "tracks/iphone-pack-1-08.csv",
-          "version": 2,
+          "version": 3,
           "format": 3
         },
         {
           "id": "iphone-pack-1-09",
           "name": "9. Pumpkin Patch",
           "file": "tracks/iphone-pack-1-09.csv",
-          "version": 2,
+          "version": 3,
           "format": 3
         },
         {
           "id": "iphone-pack-1-10",
           "name": "10. Island Hopper",
           "file": "tracks/iphone-pack-1-10.csv",
-          "version": 2,
+          "version": 3,
           "format": 3
         }
       ]
