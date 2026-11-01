@@ -11,7 +11,7 @@
           "id": "iphone-pack-1-01",
           "name": "1. Pocket Park",
           "file": "tracks/iphone-pack-1-01.csv",
-          "version": 1,
+          "version": 2,
           "format": 3
         },
         {
@@ -39,14 +39,14 @@
           "id": "iphone-pack-1-05",
           "name": "5. Boardwalk",
           "file": "tracks/iphone-pack-1-05.csv",
-          "version": 1,
+          "version": 2,
           "format": 3
         },
         {
           "id": "iphone-pack-1-06",
           "name": "6. Pine Hollow",
           "file": "tracks/iphone-pack-1-06.csv",
-          "version": 1,
+          "version": 2,
           "format": 3
         },
         {
@@ -60,14 +60,14 @@
           "id": "iphone-pack-1-08",
           "name": "8. Avalanche Alley",
           "file": "tracks/iphone-pack-1-08.csv",
-          "version": 1,
+          "version": 2,
           "format": 3
         },
         {
           "id": "iphone-pack-1-09",
           "name": "9. Pumpkin Patch",
           "file": "tracks/iphone-pack-1-09.csv",
-          "version": 1,
+          "version": 2,
           "format": 3
         },
         {
