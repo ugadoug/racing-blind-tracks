@@ -2,46 +2,9 @@
   "format": 1,
   "libraries": [
     {
-      "id": "test",
-      "name": "Test tracks",
-      "tracks": [
-        {
-          "id": "catalog-test",
-          "name": "Catalog test (downloaded)",
-          "file": "tracks/catalog-test.csv",
-          "version": 1
-        },
-        {
-          "id": "wide-test",
-          "name": "iphone - Wide Test",
-          "file": "tracks/wide-test.csv",
-          "version": 1,
-          "format": 2
-        },
-        {
-          "id": "key-example",
-          "name": "iphone - Key Example",
-          "file": "tracks/key-example.csv",
-          "version": 1,
-          "format": 3
-        }
-      ]
-    },
-    {
-      "id": "ipad",
-      "name": "iPad tracks",
-      "tracks": [
-        {
-          "id": "ipad-complex",
-          "name": "ipad 11 - complex",
-          "file": "tracks/ipad-complex.csv",
-          "version": 1
-        }
-      ]
-    },
-    {
-      "id": "iphone-pack-1",
-      "name": "iPhone Pack 1",
+      "id": "tour-1-iphone",
+      "name": "Tour 1",
+      "device": "iphone",
       "paid": true,
       "tracks": [
         {
@@ -117,8 +80,9 @@
       ]
     },
     {
-      "id": "ipad-pack-1",
-      "name": "iPad Pack 1",
+      "id": "tour-1-ipad",
+      "name": "Tour 1",
+      "device": "ipad",
       "paid": true,
       "tracks": [
         {
@@ -188,6 +152,40 @@
           "id": "ipad-pack-1-10",
           "name": "10. Coral Coast Grand Prix",
           "file": "tracks/ipad-pack-1-10.csv",
+          "version": 1,
+          "format": 3
+        },
+        {
+          "id": "ipad-complex",
+          "name": "11. Complex (bonus)",
+          "file": "tracks/ipad-complex.csv",
+          "version": 1,
+          "format": 3
+        }
+      ]
+    },
+    {
+      "id": "test",
+      "name": "Testing",
+      "testing": true,
+      "tracks": [
+        {
+          "id": "catalog-test",
+          "name": "Catalog test (downloaded)",
+          "file": "tracks/catalog-test.csv",
+          "version": 1
+        },
+        {
+          "id": "wide-test",
+          "name": "iphone - Wide Test",
+          "file": "tracks/wide-test.csv",
+          "version": 1,
+          "format": 2
+        },
+        {
+          "id": "key-example",
+          "name": "iphone - Key Example",
+          "file": "tracks/key-example.csv",
           "version": 1,
           "format": 3
         }
