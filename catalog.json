@@ -58,9 +58,9 @@
           "id": "iphone-market-square",
           "name": "7. Market Square",
           "file": "tracks/iphone-market-square.csv",
-          "version": 5,
+          "version": 6,
           "format": 3,
-          "layout": 4
+          "layout": 5
         },
         {
           "id": "iphone-frostbite-lanes",
