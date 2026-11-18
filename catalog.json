@@ -76,6 +76,20 @@
           "file": "tracks/iphone-pack-1-10.csv",
           "version": 4,
           "format": 3
+        },
+        {
+          "id": "iphone-ferry-crossing",
+          "name": "11. Ferry Crossing",
+          "file": "tracks/iphone-ferry-crossing.csv",
+          "version": 1,
+          "format": 3
+        },
+        {
+          "id": "iphone-frostbite-lanes",
+          "name": "12. Frostbite Lanes",
+          "file": "tracks/iphone-frostbite-lanes.csv",
+          "version": 1,
+          "format": 3
         }
       ]
     },
