@@ -82,9 +82,9 @@
           "id": "iphone-highland-cliffs",
           "name": "10. Highland Cliffs",
           "file": "tracks/iphone-highland-cliffs.csv",
-          "version": 4,
+          "version": 5,
           "format": 3,
-          "layout": 3
+          "layout": 4
         }
       ]
     },
