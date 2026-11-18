@@ -81,13 +81,20 @@
           "id": "iphone-ferry-crossing",
           "name": "11. Ferry Crossing",
           "file": "tracks/iphone-ferry-crossing.csv",
-          "version": 1,
+          "version": 2,
           "format": 3
         },
         {
           "id": "iphone-frostbite-lanes",
           "name": "12. Frostbite Lanes",
           "file": "tracks/iphone-frostbite-lanes.csv",
+          "version": 2,
+          "format": 3
+        },
+        {
+          "id": "iphone-market-square",
+          "name": "13. Market Square",
+          "file": "tracks/iphone-market-square.csv",
           "version": 1,
           "format": 3
         }
