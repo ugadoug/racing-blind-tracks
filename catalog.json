@@ -48,12 +48,11 @@
           "layout": 2
         },
         {
-          "id": "iphone-ferry-crossing",
-          "name": "6. Ferry Crossing",
-          "file": "tracks/iphone-ferry-crossing.csv",
-          "version": 6,
-          "format": 3,
-          "layout": 4
+          "id": "iphone-leapfrog-lake",
+          "name": "6. Leapfrog Lake",
+          "file": "tracks/iphone-leapfrog-lake.csv",
+          "version": 1,
+          "format": 3
         },
         {
           "id": "iphone-market-square",
