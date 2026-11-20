@@ -89,6 +89,42 @@
       ]
     },
     {
+      "id": "world-tour-iphone",
+      "name": "World Tour",
+      "device": "iphone",
+      "paid": true,
+      "tracks": [
+        {
+          "id": "iphone-wt-oasis-run",
+          "name": "1. Oasis Run",
+          "file": "tracks/iphone-wt-oasis-run.csv",
+          "version": 1,
+          "format": 4
+        },
+        {
+          "id": "iphone-wt-painted-canyon",
+          "name": "2. Painted Canyon",
+          "file": "tracks/iphone-wt-painted-canyon.csv",
+          "version": 1,
+          "format": 4
+        },
+        {
+          "id": "iphone-wt-kilauea-leap",
+          "name": "3. Kilauea Leap",
+          "file": "tracks/iphone-wt-kilauea-leap.csv",
+          "version": 1,
+          "format": 4
+        },
+        {
+          "id": "iphone-wt-crevasse-crossing",
+          "name": "4. Crevasse Crossing",
+          "file": "tracks/iphone-wt-crevasse-crossing.csv",
+          "version": 1,
+          "format": 4
+        }
+      ]
+    },
+    {
       "id": "tour-1-ipad",
       "name": "Tour 1",
       "device": "ipad",
